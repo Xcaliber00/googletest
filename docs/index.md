@@ -1,6 +1,6 @@
 # GoogleTest User's Guide
 
-## Welcome to GoogleTest!
+## Welcome to GoogleTest
 
 GoogleTest is Google's C++ testing and mocking framework. This user's guide has
 the following contents:
